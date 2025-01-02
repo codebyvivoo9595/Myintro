@@ -11,9 +11,7 @@
 
 ### About Me
 
-I'm a **Fullstack Developer** passionate about building scalable web applications. I have strong skills in both **front-end** and **back-end** development, and I thrive in environments where I can continually learn and improve my craft. 
-
-Currently, I'm working on a **.NET Project** and exploring modern cloud computing practices. I am always excited to contribute to innovative projects.
+I'm a **Fullstack Developer** with a passion for building dynamic and scalable web applications. I specialize in both **frontend** and **backend** technologies, and I’m constantly exploring new tools and frameworks to enhance my work.
 
 - 🔭 **Currently working on**: A **.NET Project**
 - 📬 **Reach me at**: [vivoo.thecoder@gmail.com](mailto:vivoo.thecoder@gmail.com)
@@ -22,39 +20,35 @@ Currently, I'm working on a **.NET Project** and exploring modern cloud computin
 
 ### Connect with Me
 
-Feel free to reach out through any of the platforms below:
-
 - [GitHub](https://github.com/codebyvivoo9595)
 - [LinkedIn](https://www.linkedin.com/in/vivek-bagane/) *(Add your LinkedIn if available)*
 - [Twitter](https://twitter.com/) *(Add your Twitter handle if available)*
 
 ---
 
-### Languages & Tools
+### Technologies & Tools
 
-I’m proficient in a variety of languages and tools that help me build full-stack applications. Here are some of the technologies I frequently work with:
+#### **Backend**
+- **.NET**  
+- **Java**  
+- **Node.js**  
+- **Express.js**
 
-#### Backend
-- **.NET** ![dotnet](https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg)
-- **Java** ![java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-- **Node.js** ![nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
-- **Express.js** ![express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)
+#### **Frontend**
+- **React**  
+- **HTML5**  
+- **CSS3**  
+- **Bootstrap**
 
-#### Frontend
-- **React** ![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
-- **HTML5** ![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-- **CSS3** ![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
-- **Bootstrap** ![bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
+#### **Database & Cloud**
+- **MongoDB**  
+- **MySQL**  
+- **Microsoft SQL Server**  
+- **AWS**  
+- **Docker**
 
-#### Database & Cloud
-- **MongoDB** ![mongodb](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)
-- **MySQL** ![mysql](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
-- **Microsoft SQL Server** ![mssql](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg)
-- **AWS** ![aws](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
-- **Docker** ![docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)
-
-#### Other Technologies
-- **Spring** ![spring](https://www.vectorlogo.zone/logos/springio/springio-icon.svg)
+#### **Other**
+- **Spring**
 
 ---
 
@@ -64,26 +58,25 @@ Here are some of my GitHub stats:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=codebyvivoo9595&show_icons=true&locale=en&layout=compact)
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=codebyvivoo9595&show_icons=true&locale=en)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codebyvivoo9595&)
 
 ---
 
 ### Projects
 
-I am currently working on multiple personal projects. Here are some of my most recent ones:
+I’m actively working on several personal projects. Here are some of them:
 
 1. **[Project Name]**  
-   A brief description of the project. Mention technologies used and your role.  
-   *(Link to GitHub or live demo)*
+   A short description of the project. Mention key technologies used.  
+   [Link to GitHub](#) | [Live Demo](#)
 
 2. **[Project Name]**  
-   A brief description of the project. Mention technologies used and your role.  
-   *(Link to GitHub or live demo)*
+   A brief overview of the project, key features, and technologies used.  
+   [Link to GitHub](#) | [Live Demo](#)
 
 3. **[Project Name]**  
-   A brief description of the project. Mention technologies used and your role.  
-   *(Link to GitHub or live demo)*
+   A concise description of what the project does and the tech stack.  
+   [Link to GitHub](#) | [Live Demo](#)
 
 ---
 
@@ -97,15 +90,15 @@ I am currently working on multiple personal projects. Here are some of my most r
 
 ### Skills & Competencies
 
-- **Problem-Solving**: Strong problem-solving skills and ability to optimize code for performance.
-- **Team Collaboration**: Experience working in agile teams using tools like Jira, Git, and Slack.
-- **Cloud & DevOps**: Familiar with cloud services such as AWS, CI/CD pipelines, and Docker.
+- **Problem-Solving**: Strong ability to break down complex problems and find optimized solutions.
+- **Collaboration**: Experienced in working with agile teams using tools like Jira, Git, and Slack.
+- **Cloud & DevOps**: Familiar with AWS, CI/CD, Docker, and related tools.
 
 ---
 
 ### Availability
 
-I’m open to **freelance work**, **collaborations**, and **full-time positions**. If you think my skills can add value to your team or project, don’t hesitate to contact me!
+I’m open to **freelance work**, **collaborations**, and **full-time opportunities**. If you think my skills can add value to your team or project, feel free to reach out!
 
 ---
 
