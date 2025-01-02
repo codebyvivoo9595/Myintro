@@ -1,25 +1,115 @@
-<h1 align="center">Hi 👋, I'm Vivek Bagane</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+# 👋 Hello, I'm Vivek Bagane
+### A Passionate Fullstack Developer from India
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codebyvivoo9595&label=Profile%20views&color=0e75b6&style=flat" alt="codebyvivoo9595" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=codebyvivoo9595&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codebyvivoo9595" alt="codebyvivoo9595" /></a> </p>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=codebyvivoo9595)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge)](https://twitter.com/)
 
-- 🔭 I’m currently working on **Dot Net Project**
+---
 
-- 📫 How to reach me **vivoo.thecoder@gmail.com**
+### About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+I'm a **Fullstack Developer** passionate about building scalable web applications. I have strong skills in both **front-end** and **back-end** development, and I thrive in environments where I can continually learn and improve my craft. 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+Currently, I'm working on a **.NET Project** and exploring modern cloud computing practices. I am always excited to contribute to innovative projects.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codebyvivoo9595&show_icons=true&locale=en&layout=compact" alt="codebyvivoo9595" /></p>
+- 🔭 **Currently working on**: A **.NET Project**
+- 📬 **Reach me at**: [vivoo.thecoder@gmail.com](mailto:vivoo.thecoder@gmail.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codebyvivoo9595&show_icons=true&locale=en" alt="codebyvivoo9595" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebyvivoo9595&" alt="codebyvivoo9595" /></p>
+### Connect with Me
+
+Feel free to reach out through any of the platforms below:
+
+- [GitHub](https://github.com/codebyvivoo9595)
+- [LinkedIn](https://www.linkedin.com/in/vivek-bagane/) *(Add your LinkedIn if available)*
+- [Twitter](https://twitter.com/) *(Add your Twitter handle if available)*
+
+---
+
+### Languages & Tools
+
+I’m proficient in a variety of languages and tools that help me build full-stack applications. Here are some of the technologies I frequently work with:
+
+#### Backend
+- **.NET** ![dotnet](https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg)
+- **Java** ![java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+- **Node.js** ![nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
+- **Express.js** ![express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)
+
+#### Frontend
+- **React** ![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
+- **HTML5** ![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+- **CSS3** ![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
+- **Bootstrap** ![bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
+
+#### Database & Cloud
+- **MongoDB** ![mongodb](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)
+- **MySQL** ![mysql](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
+- **Microsoft SQL Server** ![mssql](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg)
+- **AWS** ![aws](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
+- **Docker** ![docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)
+
+#### Other Technologies
+- **Spring** ![spring](https://www.vectorlogo.zone/logos/springio/springio-icon.svg)
+
+---
+
+### GitHub Stats
+
+Here are some of my GitHub stats:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=codebyvivoo9595&show_icons=true&locale=en&layout=compact)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=codebyvivoo9595&show_icons=true&locale=en)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codebyvivoo9595&)
+
+---
+
+### Projects
+
+I am currently working on multiple personal projects. Here are some of my most recent ones:
+
+1. **[Project Name]**  
+   A brief description of the project. Mention technologies used and your role.  
+   *(Link to GitHub or live demo)*
+
+2. **[Project Name]**  
+   A brief description of the project. Mention technologies used and your role.  
+   *(Link to GitHub or live demo)*
+
+3. **[Project Name]**  
+   A brief description of the project. Mention technologies used and your role.  
+   *(Link to GitHub or live demo)*
+
+---
+
+### Education & Certifications
+
+- **Bachelors in Computer Science** *(University Name, Year)*
+- **Certification Name** *(Platform or Institution, Year)*  
+  *(Add more certifications or relevant coursework)*
+
+---
+
+### Skills & Competencies
+
+- **Problem-Solving**: Strong problem-solving skills and ability to optimize code for performance.
+- **Team Collaboration**: Experience working in agile teams using tools like Jira, Git, and Slack.
+- **Cloud & DevOps**: Familiar with cloud services such as AWS, CI/CD pipelines, and Docker.
+
+---
+
+### Availability
+
+I’m open to **freelance work**, **collaborations**, and **full-time positions**. If you think my skills can add value to your team or project, don’t hesitate to contact me!
+
+---
+
+### Thank You for Visiting My Portfolio!
+
+---
+
